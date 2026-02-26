@@ -1,0 +1,11 @@
+[
+    {
+        "id": "contact-1765566831967-9g358volu",
+        "name": "Marc Galoyer",
+        "email": "a@a.a",
+        "subject": "Nouveau message",
+        "message": "LMessage de \n\ntest\n\ndfs\nsd\nfd\nss\ndf\nsdfs",
+        "createdAt": "2025-12-12T19:13:51.967Z",
+        "status": "new"
+    }
+]

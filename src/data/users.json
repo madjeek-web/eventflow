@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "firstname": "Gaëlle",
+        "lastname": "Dupont-belamour",
+        "email": "gaelle.dupont-belamour@gmail.com",
+        "password": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/lewKyNiAYTyzRm6Iq"
+    },
+    {
+        "id": "2",
+        "firstname": "Marc",
+        "lastname": "Galoyer",
+        "email": "demo@eventflow.dev",
+        "password": "$2b$12$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi"
+    },
+    {
+        "id": "3",
+        "firstname": "Jean-Christophe",
+        "lastname": "Becherel",
+        "email": "jean-christophe.becherel@gmail.com",
+        "password": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/lewKyNiAYTyzRm6Iq"
+    },
+    {
+        "id": "4",
+        "firstname": "Valérie",
+        "lastname": "Djondo",
+        "email": "valerie.djondo@gmail.com",
+        "password": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/lewKyNiAYTyzRm6Iq"
+    }
+]

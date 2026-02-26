@@ -1,0 +1,7 @@
+[
+    {"id": "1", "name": "atelier", "color": "#FF0000"},
+    {"id": "2", "name": "concert", "color": "#00FF00"},
+    {"id": "3", "name": "conference", "color": "#0000FF"},
+    {"id": "4", "name": "sortie", "color": "#FFAA00"},
+    {"id": "5", "name": "sport", "color": "#FF00FF"}
+]

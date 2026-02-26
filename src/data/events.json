@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "title": "Atelier poterie",
+        "category": 1,
+        "date": "2026-01-18",
+        "time": "14:00",
+        "location": "L'Atelier Céramique, 12 rue des Artisans, Paris",
+        "description": "Initiez-vous à l'art de la poterie lors de cet atelier convivial. Apprenez les techniques de base du tournage et repartez avec votre création.",
+        "maxParticipants": 12,
+        "image": "/events/poterie.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Atelier cuisine japonaise",
+        "category": 1,
+        "date": "2027-12-11",
+        "time": "10:31",
+        "location": "École de Cuisine Saveurs du Monde, 45 avenue Gambetta, Lyon",
+        "description": "Découvrez les secrets de la cuisine japonaise avec notre chef. Au menu : sushis, makis et gyozas maison. Dégustation incluse.",
+        "maxParticipants": 16,
+        "image": "/events/cuisine.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Concert acoustique",
+        "category": 2,
+        "date": "2025-12-11",
+        "time": "11:50",
+        "location": "Le Petit Théâtre, 22 rue du Faubourg, Nantes",
+        "description": "Soirée musicale intimiste avec des artistes locaux. Jazz, folk et chanson française au programme.",
+        "maxParticipants": 50,
+        "image": "/events/concert.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Conférence sur l'intelligence artificielle",
+        "category": 3,
+        "date": "2026-02-20",
+        "time": "18:30",
+        "location": "Médiathèque centrale, 5 place du Forum, Toulouse",
+        "description": "Conférence accessible sur les enjeux de l'IA dans notre quotidien. Échanges et questions avec des experts du domaine.",
+        "maxParticipants": 80,
+        "image": "/events/conference.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Soirée jeux de société",
+        "category": 4,
+        "date": "2026-02-01",
+        "time": "19:00",
+        "location": "Le Bar à Jeux, 8 place de la République, Bordeaux",
+        "description": "Une soirée décontractée autour des meilleurs jeux de société du moment. Ambiance conviviale, boissons et snacks disponibles sur place.",
+        "maxParticipants": 1,
+        "image": "/events/jeux.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Randonnée en forêt",
+        "category": 4,
+        "date": "2023-02-08",
+        "time": "09:00",
+        "location": "Parking de la Forêt de Fontainebleau, Seine-et-Marne",
+        "description": "Randonnée de 15 km à travers les sentiers de Fontainebleau. Niveau intermédiaire. Prévoir chaussures de marche et pique-nique.",
+        "maxParticipants": 2,
+        "image": "/events/randonnee.jpg"
+    },
+    {
+        "id": "7",
+        "title": "Cours de yoga en plein air",
+        "category": 5,
+        "date": "2026-03-15",
+        "time": "08:00",
+        "location": "Parc de la Tête d'Or, Lyon",
+        "description": "Séance de yoga Vinyasa en plein air pour tous niveaux. Apportez votre tapis. En cas de pluie, repli en salle.",
+        "maxParticipants": 3,
+        "image": "/events/yoga.jpg"
+    },
+    {
+        "id": "8",
+        "title": "Tournoi de badminton",
+        "category": 5,
+        "date": "2026-03-22",
+        "time": "14:00",
+        "location": "Gymnase Jean Jaurès, 18 rue du Stade, Marseille",
+        "description": "Tournoi amical en double mixte. Tous niveaux bienvenus. Raquettes fournies si besoin. Lots à gagner pour les vainqueurs.",
+        "maxParticipants": 4,
+        "image": "/events/badminton.jpg"
+    },
+    {
+        "title": "Event",
+        "category": "2",
+        "date": "2025-12-13",
+        "time": "14:29",
+        "location": "qsdqsdsqdqsds",
+        "description": "qsdqsdqsdqsdqsdqsdqsd. sqd qd qsd qsd qsd qsd qsd qsdqsdqsdqsdvdfvdsfv ",
+        "maxParticipants": "5",
+        "image": "",
+        "id": "940d3b82-9126-4fef-a20b-c29e4eea0551"
+    }
+]
