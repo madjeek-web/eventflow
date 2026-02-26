@@ -28,10 +28,6 @@ A static preview of the interface is available on GitHub Pages.
 
 > The demo runs with seed data and resets on each deployment. It illustrates the UI and navigation flow, not live data persistence.
 
-Buy EventFlow: Info / Prices
-Contact us directly by email :
-encrypt-free.74.mq2fl@aleeeas.com
-
 ---
 
 ## Table of Contents
