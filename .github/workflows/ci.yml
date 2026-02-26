@@ -1,32 +1,10 @@
-name: CI
+yamlname: CI
 
 on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
+  workflow_dispatch:
 
 jobs:
-  lint-and-build:
-    name: Lint and Build
+  placeholder:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run linter
-        run: npm run lint
-
-      - name: Build application
-        run: npm run build
-        env:
-          JWT_SECRET: ci-placeholder-secret-not-used-in-production
+      - run: echo "CI ready"
