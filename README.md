@@ -58,6 +58,18 @@ It is a genuine reference for anyone who wants to understand how a modern Next.j
 
 ---
 
+---
+
+## Live Demo
+
+A static preview of the interface is available on GitHub Pages.
+
+[https://madjeek-web.github.io/eventflow-demo-standalone-v1-0.html](https://madjeek-web.github.io/eventflow-demo-standalone-v1-0.html)
+
+> The demo runs with seed data and resets on each deployment. It illustrates the UI and navigation flow, not live data persistence.
+
+---
+
 ## Features
 
 | Feature | Description |
