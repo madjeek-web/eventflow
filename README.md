@@ -506,3 +506,13 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for the f
 Fabien Conéjéro  
 February 2026  
 [https://github.com/madjeek-web](https://github.com/madjeek-web)
+
+## Buy Me A Coffee :
+
+<img src="https://github.com/madjeek-web/eventflow/raw/main/...i.png" alt="Buy Me A Coffee image" width="65%" height="65%">
+
+[stripe.com](https://donate.stripe.com/3cI6oH1nUgsy8WZdVHgEg00)
+
+. Thank you for your support
+
+
