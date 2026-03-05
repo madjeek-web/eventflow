@@ -509,7 +509,7 @@ February 2026
 
 ## Buy Me A Coffee :
 
-<img src="https://github.com/madjeek-web/eventflow/raw/main/...i.png" alt="Buy Me A Coffee image" width="65%" height="65%">
+<img src="https://github.com/madjeek-web/eventflow/raw/main/Buy_Me _A_Coffee.jpg" alt="Buy Me A Coffee image" width="35%" height="35%">
 
 [stripe.com](https://donate.stripe.com/3cI6oH1nUgsy8WZdVHgEg00)
 
