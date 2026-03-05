@@ -507,7 +507,7 @@ Fabien Conéjéro
 February 2026  
 [https://github.com/madjeek-web](https://github.com/madjeek-web)
 
-## Buy Me A Coffee :
+## ༄☕︎︎︎ Buy Me A Coffee :
 
 <a href="https://donate.stripe.com/3cI6oH1nUgsy8WZdVHgEg00" target="_blank" rel="noopener noreferrer"><img src="https://github.com/madjeek-web/eventflow/raw/main/Buy_Me _A_Coffee.jpg" alt="Buy Me A Coffee image" width="25%" height="25%"></a>
 
